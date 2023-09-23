@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactapp1/static/css/main.8dd24661.css",
+    "main.js": "/reactapp1/static/js/main.b2bb8719.js",
+    "static/js/787.1297335f.chunk.js": "/reactapp1/static/js/787.1297335f.chunk.js",
+    "static/media/homesky.png": "/reactapp1/static/media/homesky.694e649d6649752cd6fa.png",
+    "static/media/IMG_4043.jpg": "/reactapp1/static/media/IMG_4043.69fe12a234c15f3f0f71.jpg",
+    "static/media/image4.jpg": "/reactapp1/static/media/image4.808da7f3a94b64eb3ac2.jpg",
+    "static/media/image5.jpg": "/reactapp1/static/media/image5.be1fb527543167c9054e.jpg",
+    "static/media/image2.jpg": "/reactapp1/static/media/image2.5f8e8bd10ed225f50195.jpg",
+    "static/media/image1.jpg": "/reactapp1/static/media/image1.33c3d7a7ec05fc2e90d5.jpg",
+    "static/media/image3.jpg": "/reactapp1/static/media/image3.752d9fa6753566c1982a.jpg",
+    "static/media/me1.jpg": "/reactapp1/static/media/me1.9c5a9058fbd43e8cb79d.jpg",
+    "static/media/image7.jpg": "/reactapp1/static/media/image7.6189a363ce6e7e894af0.jpg",
+    "static/media/card1.jpg": "/reactapp1/static/media/card1.249df9eea2a65e131545.jpg",
+    "static/media/card2.jpg": "/reactapp1/static/media/card2.6e6dc237eaf45e2c1b2d.jpg",
+    "static/media/instagram.png": "/reactapp1/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/image6.jpg": "/reactapp1/static/media/image6.5e48e68eda968225cf64.jpg",
+    "static/media/twitter.png": "/reactapp1/static/media/twitter.8e65601e69067aadfe55.png",
+    "index.html": "/reactapp1/index.html",
+    "main.8dd24661.css.map": "/reactapp1/static/css/main.8dd24661.css.map",
+    "main.b2bb8719.js.map": "/reactapp1/static/js/main.b2bb8719.js.map",
+    "787.1297335f.chunk.js.map": "/reactapp1/static/js/787.1297335f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd24661.css",
+    "static/js/main.b2bb8719.js"
+  ]
+}
