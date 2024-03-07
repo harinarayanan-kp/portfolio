@@ -32,4 +32,3 @@ function ContactTextbox(props) {
         <input placeholder={props.placeholder} className='nametextbox' type="text" />
     </form>
 }
-
